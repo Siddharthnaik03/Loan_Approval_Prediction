@@ -22,5 +22,5 @@ Train the chosen model using the training data.
 #### **Model Evaluation**:
 Evaluate the model's performance using appropriate metrics, such as accuracy.
 
-### **Results**: The project achieves an accuracy of approximately 0.78 using a Random Forest model.
+### **Results**: the result .
 

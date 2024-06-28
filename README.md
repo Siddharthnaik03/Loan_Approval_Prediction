@@ -1,4 +1,4 @@
-#**Loan Approval Prediction**
+#**Loan Approval Prediction**#
 Banks must consider various factors when determining the eligibility of an applicant for a loan. Machine learning is frequently used in the financial sector to forecast loan approval. In order to develop a machine learning model for predicting loan approval, I have adhered to the following steps : 
 
 ##*Data Collection and Pre-processing*:
